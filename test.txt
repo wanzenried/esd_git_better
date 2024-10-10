@@ -1,2 +1,2 @@
-dette er en tekstfil
+dette er ikke en tekstfil
 ny linje
